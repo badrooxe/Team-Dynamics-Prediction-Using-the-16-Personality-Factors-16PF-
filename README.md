@@ -1,0 +1,2 @@
+# Team-Dynamics-Prediction-Using-the-16-Personality-Factors-16PF-
+In this project, we aim to analyze and quantify team compatibility based on Cattell’s 16 Personality Factors (16PF) model. Each team member will answer a comprehensive psychological questionnaire derived from the IPIP (International Personality Item Pool), consisting of over 100 statements that reflect behavioral and emotional tendencies.
